@@ -1,0 +1,1 @@
+class ItemsLoadingException implements Exception {}
