@@ -4,7 +4,43 @@
       "price": 14,
       "name": "Item 1",
       "description": "Description 1",
-      "image": "image"
+      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
+    },
+    {
+      "price": 50,
+      "name": "Item 2",
+      "description": "Description 2",
+      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
+    },
+    {
+      "price": 40,
+      "name": "Item 3",
+      "description": "Description 3",
+      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
+    },
+    {
+      "price": 99,
+      "name": "Item 4",
+      "description": "Description 4",
+      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
+    },
+    {
+      "price": 150,
+      "name": "Item 5",
+      "description": "Description 5",
+      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
+    },
+    {
+      "price": 333,
+      "name": "Item 6",
+      "description": "Description 6",
+      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
+    },
+    {
+      "price": 255,
+      "name": "Item 7",
+      "description": "Description 7",
+      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
     }
   ]
 }

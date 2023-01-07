@@ -4,7 +4,7 @@ import 'package:blocinterview/features/items/domain/entities/shop_item.dart';
 import 'package:blocinterview/features/items/domain/repositories/items_repository.dart';
 import 'package:dartz/dartz.dart';
 
-class GetItems implements UseCase<List<ShopItem>, NoParams> {
+class GetItems implements UseCaseItems<List<ShopItem>, NoParams> {
   final ItemsRepository repository;
 
   GetItems(this.repository);

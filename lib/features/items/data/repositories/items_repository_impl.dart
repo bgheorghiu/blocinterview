@@ -13,7 +13,7 @@ class ItemsRepositoryImpl implements ItemsRepository {
   Future<Either<Failure, List<ShopItem>>> getItems() async{
     try{
       final List<ShopItem> items = await localDataSource.getItems();
-      
+
       return Right(items);
     } catch (e){
       return Left(ItemsLoadingFailure(error: e.toString()));
