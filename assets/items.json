@@ -2,45 +2,45 @@
   "items": [
     {
       "price": 14,
-      "name": "Item 1",
-      "description": "Description 1",
-      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
+      "name": "Jordan 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.1",
+      "image": "https://cdn.flightclub.com/TEMPLATE/296982/1.jpg"
     },
     {
       "price": 50,
-      "name": "Item 2",
-      "description": "Description 2",
-      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
+      "name": "Jordan 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.2",
+      "image": "https://cdn.flightclub.com/TEMPLATE/296982/1.jpg"
     },
     {
       "price": 40,
-      "name": "Item 3",
-      "description": "Description 3",
-      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
+      "name": "Jordan 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.3",
+      "image": "https://cdn.flightclub.com/TEMPLATE/296982/1.jpg"
     },
     {
       "price": 99,
-      "name": "Item 4",
-      "description": "Description 4",
-      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
+      "name": "Jordan 4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.4",
+      "image": "https://cdn.flightclub.com/TEMPLATE/296982/1.jpg"
     },
     {
       "price": 150,
-      "name": "Item 5",
-      "description": "Description 5",
-      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
+      "name": "Jordan 5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.5",
+      "image": "https://cdn.flightclub.com/TEMPLATE/296982/1.jpg"
     },
     {
       "price": 333,
-      "name": "Item 6",
-      "description": "Description 6",
-      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
+      "name": "Jordan 6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.6",
+      "image": "https://cdn.flightclub.com/TEMPLATE/296982/1.jpg"
     },
     {
       "price": 255,
-      "name": "Item 7",
-      "description": "Description 7",
-      "image": "https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000"
+      "name": "Jordan 7",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.7",
+      "image": "https://cdn.flightclub.com/TEMPLATE/296982/1.jpg"
     }
   ]
 }

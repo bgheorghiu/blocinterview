@@ -1,6 +1,7 @@
 import 'package:blocinterview/features/cart/presentation/bloc/cart_bloc.dart';
 import 'package:blocinterview/features/cart/presentation/bloc/cart_events.dart';
 import 'package:blocinterview/features/items/domain/entities/shop_item.dart';
+import 'package:blocinterview/features/items/presentation/widgets/network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
@@ -72,19 +73,8 @@ class DetailsPage extends StatelessWidget {
                   elevation: 20,
                   child: SizedBox(
                     height: MediaQuery.of(context).size.height * 0.3,
-                    child: Image.network(
-                      'https://img.freepik.com/premium-photo/blue-sport-running-shoes-white-background-sports-shoes-blue-color-trendy-sport-footwear_256259-2485.jpg?w=2000',
-                      fit: BoxFit.contain,
-                      loadingBuilder: (BuildContext context, Widget child, ImageChunkEvent? loadingProgress) {
-                        if (loadingProgress == null) return child;
-                        return Center(
-                          child: CircularProgressIndicator(
-                            value: loadingProgress.expectedTotalBytes != null
-                                ? loadingProgress.cumulativeBytesLoaded / loadingProgress.expectedTotalBytes!
-                                : null,
-                          ),
-                        );
-                      },
+                    child: NetworkImageWidget(
+                      url: item.image,
                     ),
                   ),
                 ),
